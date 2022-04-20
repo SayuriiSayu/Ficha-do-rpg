@@ -54,31 +54,11 @@ const data = {
       amount: 10,
     },
     {
-      type: 'Educação',
-      amount: 10,
-    },
-    {
       type: 'Força',
       amount: 10,
     },
     {
       type: 'Inteligência',
-      amount: 10,
-    },
-    {
-      type: 'Poder',
-      amount: 10,
-    },
-    {
-      type: 'Sorte',
-      amount: 10,
-    },
-    {
-      type: 'Movimento',
-      amount: 10,
-    },
-    {
-      type: '?',
       amount: 10,
     },
   ],
